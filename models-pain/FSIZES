@@ -39,10 +39,10 @@ ISAMPLEMAX     0
 DIMTMP         0              
 DIMCNS         0              
 DIMNEW         0              
-PDT            21             
+PDT            3              
 LADD_MAX       0              
 MAXSIDL        0              
 NTT            15             
 NOMEG          2              
 NSIGM          0              
-PPDT           14             
+PPDT           1              
